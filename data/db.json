@@ -1,0 +1,58 @@
+{
+  "livros": [
+    {
+      "id": "e719",
+      "titulo": "Título: Doutor Sono",
+      "autor": "Autor: Stephen King",
+      "editora": "Editora: Suma",
+      "genero": "Gênero: Terror, Suspense",
+      "resumo": "Resumo: \"Doutor Sono\" é a sequência do clássico de Stephen King, \"O Iluminado\". A história acompanha Dan Torrance, agora adulto e lidando com os traumas de sua infância no Hotel Overlook. Dan usa seus poderes paranormais para ajudar pacientes terminais em um hospício, mas acaba cruzando caminhos com um grupo cruel que se alimenta do \"brilho\" de crianças inocentes. O livro mescla terror, sobrenatural e drama, explorando temas como redenção e os efeitos do passado sobre o presente.",
+      "imageSrc": "https://m.media-amazon.com/images/I/81caDOQBC-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "5dde",
+      "titulo": "Título: Uma Breve História do Tempo ",
+      "autor": "Autor: Stephen Hawking",
+      "editora": "Editora: Intrínseca",
+      "genero": "Gênero: Não-ficção, Ciência",
+      "resumo": "Resumo: Em \"Uma Breve História do Tempo\", Stephen Hawking explora os grandes mistérios do universo, desde a origem do cosmos até buracos negros e viagens no tempo. Com uma linguagem acessível, Hawking apresenta teorias complexas da física de forma simplificada, convidando o leitor a refletir sobre o universo e nossa existência nele.",
+      "imageSrc": "https://m.media-amazon.com/images/I/61AaXcdHXKS._SY466_.jpg"
+    },
+    {
+      "id": "37be",
+      "titulo": "Título: Código Limpo",
+      "autor": "Autor: Robert C. Martin",
+      "editora": "Editora: Alta Books",
+      "genero": "Gênero: Desenvolvimento de software / Programação",
+      "resumo": "Resumo: \"Código Limpo\" é um livro essencial para desenvolvedores de software que buscam aprimorar suas habilidades de programação. Escrito por Robert C. Martin, conhecido como \"Uncle Bob\" no mundo da programação, o livro apresenta práticas e princípios para escrever código de qualidade, fácil de entender, manter e evoluir. Martin aborda temas como a importância da legibilidade do código, a escolha de nomes significativos para variáveis, funções e classes, a redução da complexidade, entre outros aspectos fundamentais para produzir um código limpo e de alta qualidade.",
+      "imageSrc": "https://a-static.mlcdn.com.br/800x560/livro-codigo-limpo/magazineluiza/089569600/c30e2a0ee34983b051904d169c735dfd.jpg"
+    },
+    {
+      "id": "02de",
+      "titulo": "Título: Extraordinário",
+      "autor": "Autor: R. J. Palacio",
+      "editora": "Editora: Intrínseca",
+      "genero": "Gênero: Ficção, Drama",
+      "resumo": "Resumo: \"Extraordinário\" conta a história de August Pullman, um menino com uma deformidade facial que, após anos de homeschooling, decide enfrentar o desafio de frequentar a escola pela primeira vez. O livro aborda temas como bullying, aceitação e empatia, mostrando como a jornada de Auggie impacta não apenas sua vida, mas a de todos ao seu redor.",
+      "imageSrc": "https://m.media-amazon.com/images/I/41--5-gbIhL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "40bb",
+      "titulo": "Título: A Menina que Roubava Livros",
+      "autor": "Autor: Markus Zusak",
+      "editora": "Editora: Intrínseca",
+      "genero": "Gênero: Ficção histórica",
+      "resumo": "Resumo: O livro narra a história de Liesel Meminger, uma jovem que vive na Alemanha durante a Segunda Guerra Mundial. Contado sob a perspectiva da Morte, o enredo destaca a descoberta do poder das palavras por Liesel, enquanto ela enfrenta os desafios de uma época marcada pela guerra e intolerância. O romance aborda temas como amor, perda, esperança e resiliência.",
+      "imageSrc": "https://m.media-amazon.com/images/I/61L+4OBhm-L._SY466_.jpg"
+    },
+    {
+      "id": "c0d7",
+      "titulo": "Título: Star Wars: Herdeiro do Império",
+      "autor": "Autor: Timothy Zahn",
+      "editora": "Editora: Aleph",
+      "genero": "Gênero:  Ficção Científica / Space Opera",
+      "resumo": "Resumo: \"Herdeiro do Império\" é o primeiro livro da trilogia \"Thrawn\" escrita por Timothy Zahn, que se passa no universo expandido de Star Wars, situando-se cinco anos após os eventos do filme \"O Retorno de Jedi\". A história acompanha o retorno do Império Galáctico, liderado pelo astuto Grão-Almirante Thrawn, e a luta da recém-formada Nova República para resistir aos seus ataques. Com a ajuda de personagens icônicos como Luke Skywalker, Leia Organa e Han Solo, a trilogia \"Thrawn\" expande o universo de Star Wars com novos conflitos, personagens e aventuras emocionantes.",
+      "imageSrc": "https://m.media-amazon.com/images/I/81GiWe+k9sL._SY466_.jpg"
+    }
+  ]
+}

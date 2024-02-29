@@ -1,38 +1,147 @@
-.App {
-  text-align: center;
-}
+.ContainerLivros {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 3em;
+  padding: 3em;
+  align-items: start;
+  margin-bottom: 4em;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.ContainerLivro {
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  gap: 1em;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 20px;
+  padding: 10px;
+  position: relative;
 }
 
-.App-link {
-  color: #61dafb;
+.ContainerLivro img {
+  width: 40%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.Container-Titulo {
+  width: fit-content;
+  margin: auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 3em;
+  background-color: rgb(255, 192, 203, 0.7);
+  border-radius: 10px;
+  padding: 10px;
+
+  @media (max-width: 768px) {
+    text-align: center;
   }
-  to {
-    transform: rotate(360deg);
+}
+
+.ContainerContext {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  width: 100%;
+  font-weight: 500;
+}
+
+p {
+  font-weight: 500;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  gap: 20px;
+  margin-bottom: 4em;
+}
+
+.ContainerPost {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2em;
+}
+
+body {
+  background-image: url("/public/black-white-books.jpg");
+  background-size: cover;
+}
+
+.Subtitle-post {
+  background-color: rgb(255, 192, 203, 0.7);
+  border-radius: 10px;
+  padding: 10px;
+
+  @media (max-width: 768px) {
+    text-align: center;
   }
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 40%;
+
+  @media (max-width: 768px) {
+    width: 80%;
+    gap: 2px;
+  }
+
+  @media (max-width: 1024px) {
+    width: 60%;
+  }
+}
+
+textarea {
+  width: 95%;
+  height: 200px;
+  resize: none;
+  padding: 10px;
+
+  @media (max-width: 768px) {
+    width: 90%;
+  }
+
+  @media (max-width: 1024px) {
+    width: 90%;
+  }
+}
+
+input {
+  padding: 10px;
+}
+
+.Button {
+  background: #ffc0cb;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.IconDelete {
+  color: #f72798;
+  cursor: pointer;
+}
+
+.ContainerIcons {
+  position: absolute;
+  right: 10px;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 4px;
 }
