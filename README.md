@@ -1,6 +1,12 @@
 # My Books
 Projeto desenvolvido para praticar requisições HTTP utilizando JSON Server. 
 
+![image](https://github.com/sarahlibiny/my-books/assets/122837977/14ca4834-274b-4b37-92e9-bed118be5e41)
+
+![image](https://github.com/sarahlibiny/my-books/assets/122837977/a4fbc89e-516c-4352-b237-622301048c52)
+
+![image](https://github.com/sarahlibiny/my-books/assets/122837977/81d7c635-0d0e-4640-a936-95d0208f4989)
+
 ## ✔️ Tecnologias utilizadas
 React
 JSON Server
