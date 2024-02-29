@@ -8,8 +8,8 @@ Projeto desenvolvido para praticar requisições HTTP utilizando JSON Server.
 ![image](https://github.com/sarahlibiny/my-books/assets/122837977/81d7c635-0d0e-4640-a936-95d0208f4989)
 
 ## ✔️ Tecnologias utilizadas
-React
-JSON Server
+- React
+- JSON Server
 
 ## 📚 Detalhes do projeto
 O projeto consiste em uma página simples que exibe os livros de uma API mockada com JSON Server. Os principais recursos incluem:
